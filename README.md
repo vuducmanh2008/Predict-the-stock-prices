@@ -5,3 +5,11 @@ Dự đoán giá cổ phiếu là bài toán liên quan đến chuỗi thời gi
 ## 2. Dữ liệu
 Dữ liệu được thu thập từ sàn chứng khoán của Việt Nam trong thời gian từ 1/2020 đến hết 4/2022
 
+## 3. Yêu cầu bài toán
+Sử dụng giá chứng khoán trong năm 2020 và 2021 để dự đoán giá chứng khoán trong 4 tháng đầu của năm 2022 bằng mô hình ARIMA
+
+## 4. Tài liệu tham khảo
+https://www.kdnuggets.com/2020/01/stock-market-forecasting-time-series-analysis.html#
+https://www.youtube.com/watch?v=PuZY9q-aKLw
+
+##### * Lưu ý: Project chỉ mang tính chất tham khảo cho việc học tập
